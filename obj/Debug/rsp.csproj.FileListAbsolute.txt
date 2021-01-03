@@ -1,0 +1,10 @@
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\bin\Debug\rsp.exe.config
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\bin\Debug\rsp.exe
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\bin\Debug\rsp.pdb
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.Properties.Resources.resources
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.csproj.GenerateResource.cache
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.csproj.CoreCompileInputs.cache
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.exe
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.pdb
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.csprojAssemblyReference.cache
+C:\Users\mivan\source\repos\rockScissorsPaperForm\rsp\obj\Debug\rsp.dd.resources
